@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hayalet8
+- 👋 Hi, I’m WildLens – The Smart Nature Platform
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-hayalet8/hayalet8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WildLens – The Smart Nature Platform is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
